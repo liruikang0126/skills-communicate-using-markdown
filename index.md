@@ -8,3 +8,7 @@
 ``` javascript
 var myVar = "Hello World!";
 ```
+
+- [ ] task1
+- [ ] task2
+- [ ] task3
